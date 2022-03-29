@@ -1,0 +1,55 @@
+h1 {
+    text-transform: uppercase;
+    color: black;
+    font-size: 60px;
+    border-left: 200px solid black;
+    border-right: 200px solid black;
+}
+
+.burlywood {
+    padding: 40px;
+    background-color: burlywood;
+    list-style: none;
+    font-size: 20px;
+    color: white;
+    font-weight: bolder;
+}
+
+.cBurl {
+    color: burlywood;
+    font-weight: bolder;
+    text-decoration: overline;
+}
+
+.beige{
+    padding: 40px;
+    background-color: #CD7F32;
+    font-size: 20px;
+    color: white;
+    list-style: none;
+    font-weight: bolder;
+}
+
+.cBeige {
+    color: #CD7F32;
+    font-weight: bolder;
+    text-decoration: overline;
+    margin-top: 70px;
+}
+
+
+.brown{
+    padding: 40px;
+    background-color: #51361a;
+    font-size: 20px;
+    color: white;
+    list-style: none;
+    font-weight: bolder;
+}
+
+.cBrown {
+    color: #51361a;
+    font-weight: bolder;
+    text-decoration: overline;
+    margin-top: 70px;
+}
